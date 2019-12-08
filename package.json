@@ -15,7 +15,7 @@
     "url": "git+https://github.com/ptdecker/nodeexample.git"
   },
   "author": "P. Todd Decker",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/ptdecker/nodeexample/issues"
   },
